@@ -1,0 +1,16 @@
+*{
+    background-color: rgba(123, 207, 207, 0.062);
+}
+.search{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+thead {
+    border-radius: 50;
+    background-color: rgb(0, 109, 128);
+    color: white;
+
+    
+}
+
